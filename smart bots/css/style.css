@@ -1,0 +1,61 @@
+body{
+    background: #282828;
+	color: #ffffff;
+	font-family: proxima nova;
+}
+
+.nav-link{
+    color: #ffffff;   
+}
+
+.btn{
+    border: 2px solid #da0096;
+    color: #ffffff;
+    border-radius: 50px;
+   
+}
+
+.card{
+    background: #444243;
+	color: #ffffff;
+    border-radius: 15px;
+
+}
+.shadow{
+    background: #444243;
+	color: #ffffff;
+    border-radius: 15px;
+}
+hr{
+    background-color: white;
+}
+
+.email{
+    background: #444243;
+	width: 250px;
+	border: 2px solid #444243;
+	padding: 5px;
+	border-radius: 50px;
+	font-size: 18px;
+	color: #ffffff;
+	font-weight: 400;
+    text-align: center;
+}
+
+.btn-pink{
+    background-color: #da0096;
+    color: #ffffff;
+}
+
+.text-pink{
+    color: #da0096;
+}
+
+.logo{
+    width: 80px;
+}
+
+i{
+    color: #da0096;
+	padding: 5px;
+}
