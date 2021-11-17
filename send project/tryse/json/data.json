@@ -1,0 +1,96 @@
+{
+  "featured": [
+    {
+      "product_id": "001",
+      "title": "Red T-shirt",
+      "ratting": 4,
+      "price": 250,
+      "image_url": "https://i.ibb.co/X7tgRPy/product-1.jpg"
+    },
+    {
+      "product_id": "002",
+      "title": "Hrx Shoes for Men",
+      "ratting": 5,
+      "price": 2500,
+      "image_url": "https://i.ibb.co/GFFnVrK/product-2.jpg"
+    },
+    {
+      "product_id": "003",
+      "title": "trousers",
+      "ratting": 4,
+      "price": 500,
+      "image_url": "https://i.ibb.co/QmKM6wR/product-3.jpg"
+    },
+    {
+      "product_id": "004",
+      "title": "Blue T-shirt",
+      "ratting": 3,
+      "price": 300,
+      "image_url": "https://i.ibb.co/BsMJ4Zt/product-4.jpg"
+    }
+  ],
+  "latest": [
+     {
+      "product_id": "Latest001",
+      "title": "Nkie Shoes",
+      "ratting": 4,
+      "price": 4000,
+      "image_url": "https://i.ibb.co/c2fgTmM/product-5.jpg"
+    },
+    {
+      "product_id": "Latest002",
+      "title": "Puma tshirt",
+      "ratting": 5,
+      "price": 200,
+      "image_url": "https://i.ibb.co/RhTnnVd/product-6.jpg"
+    },
+    {
+      "product_id": "Latest003",
+      "title": "HRX socks",
+      "ratting": 4,
+      "price": 500,
+      "image_url": "https://i.ibb.co/Wp7jch7/product-7.jpg"
+    },
+    {
+      "product_id": "Latest004",
+      "title": "Fossil ",
+      "ratting": 3,
+      "price": 6000,
+      "image_url": "https://i.ibb.co/58KTV2P/product-8.jpg"
+    },
+    {
+      "product_id": "Latest005",
+      "title": "classic watch",
+      "ratting": 4,
+      "price": 4000,
+      "image_url": "https://i.ibb.co/7kMSkwS/product-9.jpg"
+    },
+    {
+      "product_id": "Latest006",
+      "title": "HRX shoes",
+      "ratting": 5,
+      "price": 8000,
+      "image_url": "https://i.ibb.co/MDN1B0h/product-10.jpg"
+    },
+    {
+      "product_id": "Latest007",
+      "title": "Shoes",
+      "ratting": 4,
+      "price": 700,
+      "image_url": "https://i.ibb.co/7jjFKpR/product-11.jpg"
+    },
+    {
+      "product_id": "Latest008",
+      "title": "Trousers ",
+      "ratting": 3,
+      "price": 600,
+      "image_url": "https://i.ibb.co/bRdHdLm/product-12.jpg"
+    }
+  ]
+}
+
+
+
+
+
+

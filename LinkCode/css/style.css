@@ -1,0 +1,102 @@
+.navbar{
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 80vvw;
+    /* background-color: #08145E; */
+    background-color: whitesmoke;
+    color: black;
+}
+
+.container-home{
+    color: black;
+     background-color: whitesmoke;
+ }
+
+.nav-link{
+    color: black;
+}
+
+.btn-navbar{
+    border: white;
+    background-color: white;
+    color: black;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+a:hover{
+    color: black;
+}
+a{
+    color: black;
+}
+.navbar-brand{
+    color: black;
+}
+
+.container-navbar{
+    width: 80vw;
+}
+
+.logo{
+    width: 90px;
+    height: 45px;
+}
+
+.card{
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: whitesmoke;
+}
+
+.container-marquee{
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+    border: 1px solid #08145E;
+}
+
+.img-marquee{
+    width: 25vw;
+    height: 20vh;
+}
+
+.img-course{
+    height: 10vh;
+}
+
+.img-placement{
+    height: 6vh;
+}
+
+.btn-offer{
+    background-color: whitesmoke;
+    color: black;
+    border: 1px solid white;
+}
+
+.fa{
+    background-color: whitesmoke;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.img-message{
+    height: 25vh;
+}
+
+iframe{
+    border-radius: 10px;
+}
+
+.btn-bottom-right{
+    border-radius: 50%;
+    position:fixed;
+    right: 10px;
+    bottom: 10px;
+}
+

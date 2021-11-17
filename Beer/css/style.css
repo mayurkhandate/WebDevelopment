@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.bg-pink{
+    background-color: #f0a2c4;
+}
+
+.bg-lightgray{
+    background-color: #f6f0e9;
+}
+
+.btn-lightpink{
+    background-color: #f6f0e9;
+}
+
+.btn-light{
+    background-color: #f0a2c4;
+}
+
+.card{
+    border-radius: 15px;
+    border:#f6f0e9;
+}

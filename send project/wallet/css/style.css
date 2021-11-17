@@ -1,0 +1,34 @@
+.navbar{
+    background-color: #08145E;
+    color: white;
+}
+
+.form-radius{
+    border-radius: 15px;
+}
+
+.btn{
+    background-color: #08145E;
+}
+
+.recharge-btn{
+    width: 100%;
+}
+
+.top-up-btn{
+    width: 100%;
+}
+
+.recharge-col{
+    margin-top: 85px;
+    margin-left: 20vw;
+}
+
+.background{
+    background-color: #08145E;
+    height: 75vh;
+}
+
+.top-up{
+    margin-top: 100px;
+}

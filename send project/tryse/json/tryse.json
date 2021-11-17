@@ -1,0 +1,636 @@
+{
+    "featured": [
+        {
+            "product_id": "f1",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/WvVXtKc/feature-1.jpg"
+        },
+
+        {
+            "product_id": "f2",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/GTj6R1P/feature-2.jpg"
+        },
+        
+        {
+            "product_id": "f3",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/mq6WYQk/feature-3.jpg"
+        },
+        
+        {
+            "product_id": "f4",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/C5K67PS/feature-4.jpg"
+        },
+
+        {
+            "product_id": "f5",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/wyDw6tV/feature-5.jpg"
+        },
+
+        {
+            "product_id": "f6",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/pRkb1bc/feature-6.jpg"
+        }
+
+    ],
+
+    "newArrival": [
+        {
+            "product_id": "NA1",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/C578SSt/p-1.png"
+        },
+
+        {
+            "product_id": "NA2",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/svS91yN/p-2.png"
+        },
+
+        {
+            "product_id": "NA3",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "NA4",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/C578SSt/p-1.png"
+        },
+
+        {
+            "product_id": "NA5",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/svS91yN/p-2.png"
+
+        },
+
+        {
+            "product_id": "NA6",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "NA7",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/svS91yN/p-2.png"
+        },
+
+        {
+            "product_id": "NA8",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "NA9",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/C578SSt/p-1.png"
+        },
+
+        {
+            "product_id": "NA10",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/svS91yN/p-2.png"
+        }
+
+    ],
+
+    "showCase": [
+        {
+            "product_id": "sc1",
+            "image_url": "https://ibb.co/qMGYgkc"
+        },
+
+        {
+            "product_id": "sc2",
+            "image_url": "https://ibb.co/qMGYgkc"
+        },
+
+        {
+            "product_id": "sc3",
+            "image_url": "https://ibb.co/qMGYgkc"
+        }
+    ],
+
+    "recentlyViewed": [
+        {
+            "product_id": "rv1",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/C578SSt/p-1.png"
+        },
+
+        {
+            "product_id": "rv2",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/MD4C7Hn/p-6.png"
+        },
+
+        {
+            "product_id": "rv3",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/6NN0BdQ/p-5.png"
+        },
+
+        {
+            "product_id": "rv4",
+            "title": "Tshirt",
+            "ratting": 4,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        }
+    ],
+
+    "mens": [
+        {
+            "product_id": "m1",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m2",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m3",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m4",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m5",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m6",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m7",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m8",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m9",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m10",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m11",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m12",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m13",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m14",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+
+        {
+            "product_id": "m15",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m16",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "m17",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        }
+
+    ],
+
+
+    "kids": [
+        {
+            "product_id": "k1",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k2",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k3",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k4",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k5",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k6",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k7",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k8",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k9",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k10",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k11",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k12",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k1",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k13",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k14",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k1",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k15",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k16",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "k17",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        }
+    ],
+
+    "womens": [
+        {
+            "product_id": "w1",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w2",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w3",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w4",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w5",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w6",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w1",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w7",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w7",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w8",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w9",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w10",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w11",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+        {
+            "product_id": "w12",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w13",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w14",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w15",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w16",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        },
+
+        {
+            "product_id": "w17",
+            "title": "Tshirt",
+            "ratting": 5,
+            "price": 250,
+            "image_url": "https://i.ibb.co/fpZBGrx/p-3.png"
+        }
+    ]
+
+}
