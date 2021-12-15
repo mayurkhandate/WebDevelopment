@@ -1,0 +1,37 @@
+body{
+    background-color: #fbfbfb;
+}
+
+span{
+    background-color: black;
+    color: #fbfbfb;
+}
+
+.btn-black{
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid black;
+}
+
+.btn-light{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+
+.container-home{
+    margin-top: 20vh;
+    margin-bottom: 26vh;
+}
+
+.card{
+    border-radius: 10px;
+}
+
+.footer{
+    border-radius: 10px;
+}
+
+.fa{
+    color: black;
+}
